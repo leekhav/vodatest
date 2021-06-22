@@ -1,1 +1,1 @@
-echo "I m Test    RUNNNN"
+echo "I m Tes  RUNNNN"
